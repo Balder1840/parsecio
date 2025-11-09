@@ -1,12 +1,12 @@
 {
-  "generated": "2025-11-09T03:33:01.062Z",
+  "generated": "2025-11-09T04:46:57.719Z",
   "total": 1929,
   "repositories": [
     {
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "stars": 436156,
+      "stars": 436166,
       "language": "Markdown",
       "topics": [
         "awesome-list",
@@ -19,7 +19,7 @@
       "categories": [
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-09T03:32:30Z",
+      "lastUpdated": "2025-11-09T04:42:45Z",
       "isArchived": false,
       "isFork": false
     },
@@ -27,7 +27,7 @@
       "name": "sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics",
       "url": "https://github.com/sindresorhus/awesome",
-      "stars": 413011,
+      "stars": 413022,
       "language": null,
       "topics": [
         "awesome",
@@ -39,7 +39,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:31:22Z",
+      "lastUpdated": "2025-11-09T04:43:46Z",
       "isArchived": false,
       "isFork": false
     },
@@ -47,7 +47,7 @@
       "name": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
-      "stars": 377103,
+      "stars": 377131,
       "language": "Python",
       "topics": [
         "api",
@@ -67,7 +67,7 @@
       "categories": [
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-09T03:29:26Z",
+      "lastUpdated": "2025-11-09T04:46:37Z",
       "isArchived": false,
       "isFork": false
     },
@@ -75,7 +75,7 @@
       "name": "EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
-      "stars": 376415,
+      "stars": 376420,
       "language": "Python",
       "topics": [
         "books",
@@ -87,7 +87,7 @@
       "categories": [
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-09T03:06:39Z",
+      "lastUpdated": "2025-11-09T04:46:24Z",
       "isArchived": false,
       "isFork": false
     },
@@ -95,7 +95,7 @@
       "name": "kamranahmedse/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
-      "stars": 343068,
+      "stars": 343069,
       "language": "TypeScript",
       "topics": [
         "angular-roadmap",
@@ -123,7 +123,7 @@
         "Learning Resources",
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T03:24:27Z",
+      "lastUpdated": "2025-11-09T03:36:47Z",
       "isArchived": false,
       "isFork": false
     },
@@ -158,7 +158,7 @@
       "name": "donnemartin/system-design-primer",
       "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "stars": 325897,
+      "stars": 325901,
       "language": "Python",
       "topics": [
         "design",
@@ -179,7 +179,7 @@
         "Developer Tools",
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T03:31:08Z",
+      "lastUpdated": "2025-11-09T04:02:41Z",
       "isArchived": false,
       "isFork": false
     },
@@ -187,7 +187,7 @@
       "name": "vinta/awesome-python",
       "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
       "url": "https://github.com/vinta/awesome-python",
-      "stars": 268374,
+      "stars": 268384,
       "language": "Python",
       "topics": [
         "awesome",
@@ -202,7 +202,7 @@
         "Awesome Lists",
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:27:38Z",
+      "lastUpdated": "2025-11-09T04:34:45Z",
       "isArchived": false,
       "isFork": false
     },
@@ -210,7 +210,7 @@
       "name": "awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "stars": 257046,
+      "stars": 257053,
       "language": null,
       "topics": [
         "awesome",
@@ -226,7 +226,7 @@
         "Awesome Lists",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T03:25:44Z",
+      "lastUpdated": "2025-11-09T04:42:49Z",
       "isArchived": false,
       "isFork": false
     },
@@ -234,7 +234,7 @@
       "name": "practical-tutorials/project-based-learning",
       "description": "Curated list of project-based tutorials",
       "url": "https://github.com/practical-tutorials/project-based-learning",
-      "stars": 249312,
+      "stars": 249319,
       "language": null,
       "topics": [
         "beginner-project",
@@ -251,7 +251,7 @@
         "Awesome Lists",
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-09T03:28:37Z",
+      "lastUpdated": "2025-11-09T04:31:19Z",
       "isArchived": false,
       "isFork": false
     },
@@ -259,7 +259,7 @@
       "name": "TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "stars": 212800,
+      "stars": 212801,
       "language": "Python",
       "topics": [
         "algorithm",
@@ -280,7 +280,7 @@
       "categories": [
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T03:30:24Z",
+      "lastUpdated": "2025-11-09T03:45:14Z",
       "isArchived": false,
       "isFork": false
     },
@@ -288,7 +288,7 @@
       "name": "vuejs/vue",
       "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
       "url": "https://github.com/vuejs/vue",
-      "stars": 209671,
+      "stars": 209673,
       "language": "TypeScript",
       "topics": [
         "framework",
@@ -299,7 +299,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-08T21:37:19Z",
+      "lastUpdated": "2025-11-09T04:33:56Z",
       "isArchived": false,
       "isFork": false
     },
@@ -330,7 +330,7 @@
       "name": "trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-      "stars": 192982,
+      "stars": 192988,
       "language": null,
       "topics": [
         "awesome",
@@ -360,7 +360,7 @@
         "Security",
         "Testing"
       ],
-      "lastUpdated": "2025-11-09T03:25:36Z",
+      "lastUpdated": "2025-11-09T04:43:05Z",
       "isArchived": false,
       "isFork": false
     },
@@ -396,7 +396,7 @@
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 179559,
+      "stars": 179560,
       "language": "Python",
       "topics": [
         "ai",
@@ -411,7 +411,7 @@
         "CLI Tools",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T03:27:41Z",
+      "lastUpdated": "2025-11-09T03:37:31Z",
       "isArchived": false,
       "isFork": false
     },
@@ -419,7 +419,7 @@
       "name": "microsoft/vscode",
       "description": "Visual Studio Code",
       "url": "https://github.com/microsoft/vscode",
-      "stars": 178360,
+      "stars": 178363,
       "language": "TypeScript",
       "topics": [
         "editor",
@@ -431,7 +431,7 @@
       "categories": [
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-09T03:06:56Z",
+      "lastUpdated": "2025-11-09T04:10:06Z",
       "isArchived": false,
       "isFork": false
     },
@@ -439,7 +439,7 @@
       "name": "flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
-      "stars": 173787,
+      "stars": 173786,
       "language": "Dart",
       "topics": [
         "android",
@@ -467,7 +467,7 @@
         "Developer Tools",
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:29:59Z",
+      "lastUpdated": "2025-11-09T03:34:43Z",
       "isArchived": false,
       "isFork": false
     },
@@ -492,7 +492,7 @@
       "name": "jlevy/the-art-of-command-line",
       "description": "Master the command line, in one page",
       "url": "https://github.com/jlevy/the-art-of-command-line",
-      "stars": 158719,
+      "stars": 158720,
       "language": null,
       "topics": [
         "bash",
@@ -505,7 +505,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T03:07:45Z",
+      "lastUpdated": "2025-11-09T03:53:27Z",
       "isArchived": false,
       "isFork": false
     },
@@ -537,7 +537,7 @@
         "Learning Resources",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T03:06:57Z",
+      "lastUpdated": "2025-11-09T04:11:12Z",
       "isArchived": false,
       "isFork": false
     },
@@ -545,7 +545,7 @@
       "name": "avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "url": "https://github.com/avelino/awesome-go",
-      "stars": 156942,
+      "stars": 156944,
       "language": "Go",
       "topics": [
         "awesome",
@@ -560,7 +560,7 @@
         "Awesome Lists",
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:15:23Z",
+      "lastUpdated": "2025-11-09T04:43:14Z",
       "isArchived": false,
       "isFork": false
     },
@@ -568,7 +568,7 @@
       "name": "n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 154903,
+      "stars": 154909,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -598,7 +598,7 @@
         "Developer Tools",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T03:27:11Z",
+      "lastUpdated": "2025-11-09T04:06:18Z",
       "isArchived": false,
       "isFork": false
     },
@@ -606,7 +606,7 @@
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
       "url": "https://github.com/airbnb/javascript",
-      "stars": 147758,
+      "stars": 147759,
       "language": "JavaScript",
       "topics": [
         "arrow-functions",
@@ -627,7 +627,7 @@
       "categories": [
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-08T16:24:12Z",
+      "lastUpdated": "2025-11-09T04:38:11Z",
       "isArchived": false,
       "isFork": false
     },
@@ -635,7 +635,7 @@
       "name": "vercel/next.js",
       "description": "The React Framework",
       "url": "https://github.com/vercel/next.js",
-      "stars": 135545,
+      "stars": 135544,
       "language": "JavaScript",
       "topics": [
         "blog",
@@ -657,7 +657,7 @@
         "Web Frameworks",
         "Templates"
       ],
-      "lastUpdated": "2025-11-09T03:06:57Z",
+      "lastUpdated": "2025-11-09T04:05:24Z",
       "isArchived": false,
       "isFork": false
     },
@@ -665,7 +665,7 @@
       "name": "521xueweihan/HelloGitHub",
       "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "url": "https://github.com/521xueweihan/HelloGitHub",
-      "stars": 133426,
+      "stars": 133429,
       "language": "Python",
       "topics": [
         "awesome",
@@ -676,7 +676,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:18:56Z",
+      "lastUpdated": "2025-11-09T04:42:37Z",
       "isArchived": false,
       "isFork": false
     },
@@ -762,7 +762,7 @@
       "name": "justjavac/free-programming-books-zh_CN",
       "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
       "url": "https://github.com/justjavac/free-programming-books-zh_CN",
-      "stars": 115636,
+      "stars": 115635,
       "language": null,
       "topics": [
         "android",
@@ -784,7 +784,7 @@
         "Web Frameworks",
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-09T02:43:13Z",
+      "lastUpdated": "2025-11-09T04:38:59Z",
       "isArchived": false,
       "isFork": false
     },
@@ -792,7 +792,7 @@
       "name": "ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://github.com/ripienaar/free-for-dev",
-      "stars": 114739,
+      "stars": 114744,
       "language": "HTML",
       "topics": [
         "awesome-list",
@@ -801,7 +801,7 @@
       "categories": [
         "DevOps"
       ],
-      "lastUpdated": "2025-11-09T02:15:21Z",
+      "lastUpdated": "2025-11-09T04:41:35Z",
       "isArchived": false,
       "isFork": false
     },
@@ -809,7 +809,7 @@
       "name": "open-webui/open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
-      "stars": 114638,
+      "stars": 114642,
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -831,7 +831,7 @@
       "categories": [
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T03:03:57Z",
+      "lastUpdated": "2025-11-09T04:09:17Z",
       "isArchived": false,
       "isFork": false
     },
@@ -839,7 +839,7 @@
       "name": "excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
       "url": "https://github.com/excalidraw/excalidraw",
-      "stars": 109911,
+      "stars": 109912,
       "language": "TypeScript",
       "topics": [
         "canvas",
@@ -853,7 +853,7 @@
       "categories": [
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-09T02:24:18Z",
+      "lastUpdated": "2025-11-09T04:35:28Z",
       "isArchived": false,
       "isFork": false
     },
@@ -881,7 +881,7 @@
       "name": "goldbergyoni/nodebestpractices",
       "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "stars": 104505,
+      "stars": 104504,
       "language": "Dockerfile",
       "topics": [
         "best-practices",
@@ -908,7 +908,7 @@
         "Developer Tools",
         "Testing"
       ],
-      "lastUpdated": "2025-11-09T01:35:48Z",
+      "lastUpdated": "2025-11-09T04:29:40Z",
       "isArchived": false,
       "isFork": false
     },
@@ -948,7 +948,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T03:17:00Z",
+      "lastUpdated": "2025-11-09T04:33:50Z",
       "isArchived": false,
       "isFork": false
     },
@@ -956,7 +956,7 @@
       "name": "fatedier/frp",
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "url": "https://github.com/fatedier/frp",
-      "stars": 100430,
+      "stars": 100434,
       "language": "Go",
       "topics": [
         "expose",
@@ -973,7 +973,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:04:01Z",
+      "lastUpdated": "2025-11-09T04:43:49Z",
       "isArchived": false,
       "isFork": false
     },
@@ -981,7 +981,7 @@
       "name": "tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "url": "https://github.com/tauri-apps/tauri",
-      "stars": 98685,
+      "stars": 98687,
       "language": "Rust",
       "topics": [
         "desktop-app",
@@ -995,7 +995,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-09T03:29:28Z",
+      "lastUpdated": "2025-11-09T04:34:34Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1024,7 +1024,7 @@
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 94887,
+      "stars": 94891,
       "language": null,
       "topics": [
         "ai",
@@ -1052,7 +1052,7 @@
         "CLI Tools",
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-09T03:19:15Z",
+      "lastUpdated": "2025-11-09T04:09:16Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1074,7 +1074,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T00:37:30Z",
+      "lastUpdated": "2025-11-09T04:27:27Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1082,7 +1082,7 @@
       "name": "supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
-      "stars": 92265,
+      "stars": 92268,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1110,7 +1110,7 @@
         "Developer Tools",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T03:32:15Z",
+      "lastUpdated": "2025-11-09T04:34:41Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1118,7 +1118,7 @@
       "name": "tailwindlabs/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
       "url": "https://github.com/tailwindlabs/tailwindcss",
-      "stars": 90976,
+      "stars": 90977,
       "language": "TypeScript",
       "topics": [
         "css",
@@ -1134,7 +1134,7 @@
         "Developer Tools",
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:06:57Z",
+      "lastUpdated": "2025-11-09T04:28:41Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1179,7 +1179,7 @@
       "name": "gin-gonic/gin",
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "url": "https://github.com/gin-gonic/gin",
-      "stars": 86877,
+      "stars": 86878,
       "language": "Go",
       "topics": [
         "framework",
@@ -1193,7 +1193,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-09T03:06:56Z",
+      "lastUpdated": "2025-11-09T04:07:05Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1201,7 +1201,7 @@
       "name": "ChatGPTNextWeb/NextChat",
       "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
       "url": "https://github.com/ChatGPTNextWeb/NextChat",
-      "stars": 86372,
+      "stars": 86373,
       "language": "TypeScript",
       "topics": [
         "calclaude",
@@ -1227,7 +1227,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-08T16:36:55Z",
+      "lastUpdated": "2025-11-09T04:38:18Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1235,7 +1235,7 @@
       "name": "sveltejs/svelte",
       "description": "web development for the rest of us",
       "url": "https://github.com/sveltejs/svelte",
-      "stars": 84749,
+      "stars": 84752,
       "language": "JavaScript",
       "topics": [
         "compiler",
@@ -1247,7 +1247,7 @@
         "Developer Tools",
         "Templates"
       ],
-      "lastUpdated": "2025-11-09T03:11:12Z",
+      "lastUpdated": "2025-11-09T04:25:00Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1318,7 +1318,7 @@
       "name": "macrozheng/mall",
       "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
       "url": "https://github.com/macrozheng/mall",
-      "stars": 82060,
+      "stars": 82061,
       "language": "Java",
       "topics": [
         "docker",
@@ -1344,7 +1344,7 @@
         "Security",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T14:13:17Z",
+      "lastUpdated": "2025-11-09T04:13:34Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1420,7 +1420,7 @@
       "name": "syncthing/syncthing",
       "description": "Open Source Continuous File Synchronization",
       "url": "https://github.com/syncthing/syncthing",
-      "stars": 77432,
+      "stars": 77433,
       "language": "Go",
       "topics": [
         "go",
@@ -1431,7 +1431,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:24:34Z",
+      "lastUpdated": "2025-11-09T04:27:13Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1439,7 +1439,7 @@
       "name": "netdata/netdata",
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "url": "https://github.com/netdata/netdata",
-      "stars": 76605,
+      "stars": 76606,
       "language": "C",
       "topics": [
         "ai",
@@ -1471,7 +1471,7 @@
         "Testing",
         "Data & Analytics"
       ],
-      "lastUpdated": "2025-11-09T00:17:11Z",
+      "lastUpdated": "2025-11-09T04:10:47Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1500,7 +1500,7 @@
       "name": "vitejs/vite",
       "description": "Next generation frontend tooling. It's fast!",
       "url": "https://github.com/vitejs/vite",
-      "stars": 76457,
+      "stars": 76458,
       "language": "TypeScript",
       "topics": [
         "build-tool",
@@ -1513,7 +1513,7 @@
         "Web Frameworks",
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T03:06:58Z",
+      "lastUpdated": "2025-11-09T04:23:03Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1521,7 +1521,7 @@
       "name": "Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 75815,
+      "stars": 75828,
       "language": "Python",
       "topics": [
         "llms",
@@ -1532,7 +1532,7 @@
         "Awesome Lists",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T03:22:02Z",
+      "lastUpdated": "2025-11-09T04:39:24Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1577,7 +1577,7 @@
       "name": "sdmg15/Best-websites-a-programmer-should-visit",
       "description": ":link: Some useful websites for programmers.",
       "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
-      "stars": 74656,
+      "stars": 74657,
       "language": null,
       "topics": [
         "books",
@@ -1590,7 +1590,7 @@
       "categories": [
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-08T23:16:55Z",
+      "lastUpdated": "2025-11-09T03:58:53Z",
       "isArchived": true,
       "isFork": false
     },
@@ -1626,14 +1626,14 @@
       "name": "vuejs/awesome-vue",
       "description": "🎉 A curated list of awesome things related to Vue.js",
       "url": "https://github.com/vuejs/awesome-vue",
-      "stars": 73357,
+      "stars": 73358,
       "language": null,
       "topics": [],
       "categories": [
         "Web Frameworks",
         "Awesome Lists"
       ],
-      "lastUpdated": "2025-11-08T14:13:10Z",
+      "lastUpdated": "2025-11-09T04:06:29Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1664,7 +1664,7 @@
       "name": "astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "url": "https://github.com/astral-sh/uv",
-      "stars": 72291,
+      "stars": 72293,
       "language": "Rust",
       "topics": [
         "packaging",
@@ -1675,7 +1675,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:12:55Z",
+      "lastUpdated": "2025-11-09T03:58:02Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1683,7 +1683,7 @@
       "name": "ventoy/Ventoy",
       "description": "A new bootable USB solution.",
       "url": "https://github.com/ventoy/Ventoy",
-      "stars": 72226,
+      "stars": 72228,
       "language": "C",
       "topics": [
         "auto-install",
@@ -1705,7 +1705,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:03:37Z",
+      "lastUpdated": "2025-11-09T04:42:05Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1713,7 +1713,7 @@
       "name": "thedaviddias/Front-End-Checklist",
       "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
       "url": "https://github.com/thedaviddias/Front-End-Checklist",
-      "stars": 71670,
+      "stars": 71671,
       "language": null,
       "topics": [
         "checklist",
@@ -1735,7 +1735,7 @@
         "Learning Resources",
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-08T21:52:22Z",
+      "lastUpdated": "2025-11-09T04:26:24Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1807,7 +1807,7 @@
       "name": "localsend/localsend",
       "description": "An open-source cross-platform alternative to AirDrop",
       "url": "https://github.com/localsend/localsend",
-      "stars": 70001,
+      "stars": 70005,
       "language": "Dart",
       "topics": [
         "dart",
@@ -1818,7 +1818,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T02:54:59Z",
+      "lastUpdated": "2025-11-09T04:07:46Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1862,7 +1862,7 @@
       "name": "caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "url": "https://github.com/caddyserver/caddy",
-      "stars": 67784,
+      "stars": 67786,
       "language": "Go",
       "topics": [
         "acme",
@@ -1884,7 +1884,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-09T02:20:27Z",
+      "lastUpdated": "2025-11-09T04:19:48Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1892,7 +1892,7 @@
       "name": "Eugeny/tabby",
       "description": "A terminal for a more modern age",
       "url": "https://github.com/Eugeny/tabby",
-      "stars": 67069,
+      "stars": 67071,
       "language": "TypeScript",
       "topics": [
         "serial",
@@ -1904,7 +1904,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T02:49:45Z",
+      "lastUpdated": "2025-11-09T04:33:45Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1912,7 +1912,7 @@
       "name": "ansible/ansible",
       "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
       "url": "https://github.com/ansible/ansible",
-      "stars": 66958,
+      "stars": 66957,
       "language": "Python",
       "topics": [
         "ansible",
@@ -1922,7 +1922,7 @@
         "DevOps",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T03:06:55Z",
+      "lastUpdated": "2025-11-09T04:39:55Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1930,7 +1930,7 @@
       "name": "binhnguyennus/awesome-scalability",
       "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
       "url": "https://github.com/binhnguyennus/awesome-scalability",
-      "stars": 66594,
+      "stars": 66595,
       "language": null,
       "topics": [
         "architecture",
@@ -1962,7 +1962,7 @@
         "Developer Tools",
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T02:44:07Z",
+      "lastUpdated": "2025-11-09T03:53:37Z",
       "isArchived": false,
       "isFork": false
     },
@@ -1998,7 +1998,7 @@
       "name": "xtekky/gpt4free",
       "description": "The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5",
       "url": "https://github.com/xtekky/gpt4free",
-      "stars": 65497,
+      "stars": 65498,
       "language": "Python",
       "topics": [
         "chatbot",
@@ -2025,7 +2025,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T01:29:40Z",
+      "lastUpdated": "2025-11-09T03:40:23Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2047,7 +2047,7 @@
       "name": "apache/echarts",
       "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
       "url": "https://github.com/apache/echarts",
-      "stars": 64976,
+      "stars": 64977,
       "language": "TypeScript",
       "topics": [
         "apache",
@@ -2064,7 +2064,7 @@
         "Libraries",
         "Data & Analytics"
       ],
-      "lastUpdated": "2025-11-09T03:06:55Z",
+      "lastUpdated": "2025-11-09T04:23:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2089,7 +2089,7 @@
       "name": "localstack/localstack",
       "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
       "url": "https://github.com/localstack/localstack",
-      "stars": 62607,
+      "stars": 62620,
       "language": "Python",
       "topics": [
         "aws",
@@ -2106,7 +2106,7 @@
         "Testing",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T03:18:01Z",
+      "lastUpdated": "2025-11-09T04:39:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2114,7 +2114,7 @@
       "name": "lodash/lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
       "url": "https://github.com/lodash/lodash",
-      "stars": 61368,
+      "stars": 61369,
       "language": "JavaScript",
       "topics": [
         "javascript",
@@ -2125,7 +2125,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:06:55Z",
+      "lastUpdated": "2025-11-09T04:16:40Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2183,7 +2183,7 @@
       "name": "tldr-pages/tldr",
       "description": "📚 Collaborative cheatsheets for console commands",
       "url": "https://github.com/tldr-pages/tldr",
-      "stars": 60006,
+      "stars": 60007,
       "language": "Markdown",
       "topics": [
         "android",
@@ -2211,7 +2211,7 @@
         "CLI Tools",
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-09T03:13:49Z",
+      "lastUpdated": "2025-11-09T04:29:11Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2219,7 +2219,7 @@
       "name": "toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
       "url": "https://github.com/toeverything/AFFiNE",
-      "stars": 59335,
+      "stars": 59338,
       "language": "TypeScript",
       "topics": [
         "app",
@@ -2244,13 +2244,13 @@
       "categories": [
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-09T03:29:44Z",
+      "lastUpdated": "2025-11-09T04:44:51Z",
       "isArchived": false,
       "isFork": false
     },
     {
       "name": "youngyangyang04/leetcode-master",
-      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！�� ",
+      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 ",
       "url": "https://github.com/youngyangyang04/leetcode-master",
       "stars": 59048,
       "language": "Shell",
@@ -2277,7 +2277,7 @@
       "name": "nuxt/nuxt",
       "description": "The Progressive Web Framework.",
       "url": "https://github.com/nuxt/nuxt",
-      "stars": 58749,
+      "stars": 58751,
       "language": "TypeScript",
       "topics": [
         "csr",
@@ -2298,7 +2298,7 @@
         "Web Frameworks",
         "Templates"
       ],
-      "lastUpdated": "2025-11-09T03:06:57Z",
+      "lastUpdated": "2025-11-09T04:05:44Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2306,7 +2306,7 @@
       "name": "minio/minio",
       "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "url": "https://github.com/minio/minio",
-      "stars": 57973,
+      "stars": 57975,
       "language": "Go",
       "topics": [
         "amazon-s3",
@@ -2326,7 +2326,7 @@
         "DevOps",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T03:21:44Z",
+      "lastUpdated": "2025-11-09T04:14:58Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2423,7 +2423,7 @@
       "name": "ultralytics/yolov5",
       "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
       "url": "https://github.com/ultralytics/yolov5",
-      "stars": 55960,
+      "stars": 55959,
       "language": "Python",
       "topics": [
         "coreml",
@@ -2444,7 +2444,7 @@
         "Learning Resources",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T02:22:41Z",
+      "lastUpdated": "2025-11-09T03:33:08Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2481,13 +2481,13 @@
       "name": "TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "stars": 54536,
+      "stars": 54544,
       "language": "Roff",
       "topics": [],
       "categories": [
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-09T02:35:39Z",
+      "lastUpdated": "2025-11-09T04:37:24Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2495,7 +2495,7 @@
       "name": "meilisearch/meilisearch",
       "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
       "url": "https://github.com/meilisearch/meilisearch",
-      "stars": 54427,
+      "stars": 54428,
       "language": "Rust",
       "topics": [
         "ai",
@@ -2522,7 +2522,7 @@
       "categories": [
         "Databases"
       ],
-      "lastUpdated": "2025-11-09T03:14:33Z",
+      "lastUpdated": "2025-11-09T03:45:59Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2530,7 +2530,7 @@
       "name": "OpenBB-finance/OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
       "url": "https://github.com/OpenBB-finance/OpenBB",
-      "stars": 54372,
+      "stars": 54373,
       "language": "Python",
       "topics": [
         "ai",
@@ -2552,7 +2552,7 @@
         "AI/ML",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T02:20:14Z",
+      "lastUpdated": "2025-11-09T03:44:23Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2613,7 +2613,7 @@
       "name": "rust-unofficial/awesome-rust",
       "description": "A curated list of Rust code and resources.",
       "url": "https://github.com/rust-unofficial/awesome-rust",
-      "stars": 53656,
+      "stars": 53657,
       "language": "Rust",
       "topics": [
         "awesome",
@@ -2622,7 +2622,7 @@
       "categories": [
         "Awesome Lists"
       ],
-      "lastUpdated": "2025-11-08T23:36:56Z",
+      "lastUpdated": "2025-11-09T03:49:11Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2648,7 +2648,7 @@
       "name": "maybe-finance/maybe",
       "description": "The personal finance app for everyone",
       "url": "https://github.com/maybe-finance/maybe",
-      "stars": 53352,
+      "stars": 53354,
       "language": "Ruby",
       "topics": [
         "finance",
@@ -2663,7 +2663,7 @@
       "categories": [
         "Databases"
       ],
-      "lastUpdated": "2025-11-08T20:43:05Z",
+      "lastUpdated": "2025-11-09T03:48:15Z",
       "isArchived": true,
       "isFork": false
     },
@@ -2693,7 +2693,7 @@
       "name": "marktext/marktext",
       "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
       "url": "https://github.com/marktext/marktext",
-      "stars": 52239,
+      "stars": 52240,
       "language": "JavaScript",
       "topics": [
         "dark-mode",
@@ -2718,7 +2718,7 @@
         "Web Frameworks",
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-09T03:15:05Z",
+      "lastUpdated": "2025-11-09T03:49:36Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2740,13 +2740,13 @@
       "name": "cline/cline",
       "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
       "url": "https://github.com/cline/cline",
-      "stars": 52178,
+      "stars": 52182,
       "language": "TypeScript",
       "topics": [],
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T03:00:34Z",
+      "lastUpdated": "2025-11-09T04:33:22Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2787,7 +2787,7 @@
       "name": "starship/starship",
       "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
       "url": "https://github.com/starship/starship",
-      "stars": 52096,
+      "stars": 52097,
       "language": "Rust",
       "topics": [
         "bash",
@@ -2806,7 +2806,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T02:12:22Z",
+      "lastUpdated": "2025-11-09T03:36:30Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2838,7 +2838,7 @@
         "CLI Tools",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T01:22:08Z",
+      "lastUpdated": "2025-11-09T04:11:31Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2846,7 +2846,7 @@
       "name": "go-gitea/gitea",
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "url": "https://github.com/go-gitea/gitea",
-      "stars": 51887,
+      "stars": 51888,
       "language": "Go",
       "topics": [
         "bitbucket",
@@ -2873,7 +2873,7 @@
         "Developer Tools",
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:13:37Z",
+      "lastUpdated": "2025-11-09T03:55:12Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2907,7 +2907,7 @@
       "name": "prettier/prettier",
       "description": "Prettier is an opinionated code formatter.",
       "url": "https://github.com/prettier/prettier",
-      "stars": 51156,
+      "stars": 51157,
       "language": "JavaScript",
       "topics": [
         "angular",
@@ -2932,7 +2932,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-08T20:50:03Z",
+      "lastUpdated": "2025-11-09T04:42:35Z",
       "isArchived": false,
       "isFork": false
     },
@@ -2940,7 +2940,7 @@
       "name": "WerWolv/ImHex",
       "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
       "url": "https://github.com/WerWolv/ImHex",
-      "stars": 51115,
+      "stars": 51119,
       "language": "C++",
       "topics": [
         "analyzer",
@@ -2968,7 +2968,7 @@
         "Developer Tools",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T03:22:03Z",
+      "lastUpdated": "2025-11-09T04:18:47Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3038,7 +3038,7 @@
       "name": "agalwood/Motrix",
       "description": "A full-featured download manager.",
       "url": "https://github.com/agalwood/Motrix",
-      "stars": 49708,
+      "stars": 49711,
       "language": "JavaScript",
       "topics": [
         "aria2",
@@ -3058,7 +3058,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T02:55:39Z",
+      "lastUpdated": "2025-11-09T04:37:29Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3066,7 +3066,7 @@
       "name": "justjavac/awesome-wechat-weapp",
       "description": "微信小程序开发资源汇总 :100:",
       "url": "https://github.com/justjavac/awesome-wechat-weapp",
-      "stars": 49486,
+      "stars": 49487,
       "language": null,
       "topics": [
         "demo",
@@ -3083,7 +3083,7 @@
         "Learning Resources",
         "Awesome Lists"
       ],
-      "lastUpdated": "2025-11-09T02:37:11Z",
+      "lastUpdated": "2025-11-09T04:43:18Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3091,7 +3091,7 @@
       "name": "iamkun/dayjs",
       "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
       "url": "https://github.com/iamkun/dayjs",
-      "stars": 48360,
+      "stars": 48361,
       "language": "JavaScript",
       "topics": [
         "date",
@@ -3104,7 +3104,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-07T13:39:19Z",
+      "lastUpdated": "2025-11-09T04:29:31Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3112,7 +3112,7 @@
       "name": "opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
       "url": "https://github.com/opendatalab/MinerU",
-      "stars": 48339,
+      "stars": 48341,
       "language": "Python",
       "topics": [
         "ai4science",
@@ -3132,7 +3132,7 @@
       "categories": [
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T03:31:39Z",
+      "lastUpdated": "2025-11-09T04:34:33Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3154,7 +3154,7 @@
       "name": "algorithm-visualizer/algorithm-visualizer",
       "description": ":fireworks:Interactive Online Platform that Visualizes Algorithms from Code",
       "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
-      "stars": 47998,
+      "stars": 48000,
       "language": "JavaScript",
       "topics": [
         "algorithm",
@@ -3166,7 +3166,7 @@
         "Interview & Algorithms",
         "Data & Analytics"
       ],
-      "lastUpdated": "2025-11-08T19:32:18Z",
+      "lastUpdated": "2025-11-09T04:09:35Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3200,7 +3200,7 @@
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": 47609,
+      "stars": 47610,
       "language": "Python",
       "topics": [
         "ai",
@@ -3215,7 +3215,7 @@
         "CLI Tools",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T03:13:52Z",
+      "lastUpdated": "2025-11-09T04:46:29Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3223,7 +3223,7 @@
       "name": "TanStack/query",
       "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
       "url": "https://github.com/TanStack/query",
-      "stars": 47304,
+      "stars": 47305,
       "language": "TypeScript",
       "topics": [
         "async",
@@ -3246,7 +3246,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-08T21:35:40Z",
+      "lastUpdated": "2025-11-09T04:06:22Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3376,7 +3376,7 @@
       "name": "usememos/memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "url": "https://github.com/usememos/memos",
-      "stars": 45817,
+      "stars": 45818,
       "language": "Go",
       "topics": [
         "docker",
@@ -3398,7 +3398,7 @@
         "Databases",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T03:19:31Z",
+      "lastUpdated": "2025-11-09T03:40:48Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3546,7 +3546,7 @@
       "name": "freqtrade/freqtrade",
       "description": "Free, open source crypto trading bot",
       "url": "https://github.com/freqtrade/freqtrade",
-      "stars": 44413,
+      "stars": 44417,
       "language": "Python",
       "topics": [
         "algorithmic-trading",
@@ -3563,13 +3563,13 @@
         "Security",
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T03:30:42Z",
+      "lastUpdated": "2025-11-09T04:40:14Z",
       "isArchived": false,
       "isFork": false
     },
     {
       "name": "jeecgboot/JeecgBoot",
-      "description": "🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、MybatisPlus，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~",
+      "description": "🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、MybatisPlus，Ant Design&Vue3、TS+vite！强��代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~",
       "url": "https://github.com/jeecgboot/JeecgBoot",
       "stars": 44281,
       "language": "Java",
@@ -3610,7 +3610,7 @@
       "name": "microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "stars": 44141,
+      "stars": 44146,
       "language": "Jupyter Notebook",
       "topics": [
         "agentic-ai",
@@ -3625,7 +3625,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-09T03:18:38Z",
+      "lastUpdated": "2025-11-09T04:32:23Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3681,7 +3681,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T02:10:56Z",
+      "lastUpdated": "2025-11-09T04:02:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3689,7 +3689,7 @@
       "name": "tldraw/tldraw",
       "description": "very good whiteboard SDK / infinite canvas SDK",
       "url": "https://github.com/tldraw/tldraw",
-      "stars": 43702,
+      "stars": 43703,
       "language": "TypeScript",
       "topics": [
         "canvas",
@@ -3708,7 +3708,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-09T00:38:18Z",
+      "lastUpdated": "2025-11-09T04:04:39Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3792,7 +3792,7 @@
       "name": "getsentry/sentry",
       "description": "Developer-first error tracking and performance monitoring",
       "url": "https://github.com/getsentry/sentry",
-      "stars": 42407,
+      "stars": 42408,
       "language": "Python",
       "topics": [
         "apm",
@@ -3814,7 +3814,7 @@
       "categories": [
         "DevOps"
       ],
-      "lastUpdated": "2025-11-09T03:18:29Z",
+      "lastUpdated": "2025-11-09T04:24:19Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3841,13 +3841,13 @@
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "url": "https://github.com/virattt/ai-hedge-fund",
-      "stars": 42243,
+      "stars": 42244,
       "language": "Python",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T01:26:19Z",
+      "lastUpdated": "2025-11-09T03:51:08Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3906,7 +3906,7 @@
       "name": "nolimits4web/swiper",
       "description": "Most modern mobile touch slider with hardware accelerated transitions",
       "url": "https://github.com/nolimits4web/swiper",
-      "stars": 41553,
+      "stars": 41554,
       "language": "JavaScript",
       "topics": [
         "carousel",
@@ -3921,7 +3921,7 @@
       "categories": [
         "IoT & Hardware"
       ],
-      "lastUpdated": "2025-11-08T19:47:52Z",
+      "lastUpdated": "2025-11-09T04:14:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3948,7 +3948,7 @@
       "name": "slidevjs/slidev",
       "description": "Presentation Slides for Developers",
       "url": "https://github.com/slidevjs/slidev",
-      "stars": 41504,
+      "stars": 41505,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -3961,7 +3961,7 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-09T02:42:17Z",
+      "lastUpdated": "2025-11-09T04:34:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -3995,7 +3995,7 @@
     },
     {
       "name": "bailicangdu/vue2-elm",
-      "description": "Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个��面的大型单页面应用",
+      "description": "Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用",
       "url": "https://github.com/bailicangdu/vue2-elm",
       "stars": 41182,
       "language": "Vue",
@@ -4033,7 +4033,7 @@
       "name": "mitmproxy/mitmproxy",
       "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
       "url": "https://github.com/mitmproxy/mitmproxy",
-      "stars": 41144,
+      "stars": 41146,
       "language": "Python",
       "topics": [
         "debugging",
@@ -4053,7 +4053,7 @@
         "Security",
         "Testing"
       ],
-      "lastUpdated": "2025-11-09T03:06:54Z",
+      "lastUpdated": "2025-11-09T04:16:49Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4080,7 +4080,7 @@
       "name": "bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "url": "https://github.com/bannedbook/fanqiang",
-      "stars": 40833,
+      "stars": 40834,
       "language": "Kotlin",
       "topics": [
         "brook",
@@ -4098,7 +4098,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T18:17:56Z",
+      "lastUpdated": "2025-11-09T03:54:28Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4224,7 +4224,7 @@
       "name": "sharkdp/fd",
       "description": "A simple, fast and user-friendly alternative to 'find'",
       "url": "https://github.com/sharkdp/fd",
-      "stars": 40424,
+      "stars": 40425,
       "language": "Rust",
       "topics": [
         "cli",
@@ -4240,7 +4240,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T03:06:57Z",
+      "lastUpdated": "2025-11-09T04:34:10Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4284,13 +4284,13 @@
       "name": "wg/wrk",
       "description": "Modern HTTP benchmarking tool",
       "url": "https://github.com/wg/wrk",
-      "stars": 39736,
+      "stars": 39737,
       "language": "C",
       "topics": [],
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-08T21:31:38Z",
+      "lastUpdated": "2025-11-09T04:23:32Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4298,7 +4298,7 @@
       "name": "logseq/logseq",
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
       "url": "https://github.com/logseq/logseq",
-      "stars": 39296,
+      "stars": 39299,
       "language": "Clojure",
       "topics": [
         "clojure",
@@ -4316,7 +4316,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T01:44:39Z",
+      "lastUpdated": "2025-11-09T04:38:41Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4439,7 +4439,7 @@
       "name": "dotnet/aspnetcore",
       "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
       "url": "https://github.com/dotnet/aspnetcore",
-      "stars": 37370,
+      "stars": 37371,
       "language": "C#",
       "topics": [
         "aspnetcore",
@@ -4451,7 +4451,7 @@
         "Web Frameworks",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T22:06:25Z",
+      "lastUpdated": "2025-11-09T04:00:13Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4487,7 +4487,7 @@
     },
     {
       "name": "0voice/interview_internal_reference",
-      "description": "2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+      "description": "2025年最新总结，阿里，腾讯，百度，美团，头条等技术面��题目，以及答案，专家出题人分析汇总。",
       "url": "https://github.com/0voice/interview_internal_reference",
       "stars": 37053,
       "language": "Python",
@@ -4516,7 +4516,7 @@
       "name": "satwikkansal/wtfpython",
       "description": "What the f*ck Python? 😱",
       "url": "https://github.com/satwikkansal/wtfpython",
-      "stars": 36780,
+      "stars": 36782,
       "language": "Python",
       "topics": [
         "documentation",
@@ -4532,7 +4532,7 @@
       "categories": [
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T02:52:59Z",
+      "lastUpdated": "2025-11-09T03:39:54Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4540,7 +4540,7 @@
       "name": "kilimchoi/engineering-blogs",
       "description": "A curated list of engineering blogs",
       "url": "https://github.com/kilimchoi/engineering-blogs",
-      "stars": 36315,
+      "stars": 36317,
       "language": "Ruby",
       "topics": [
         "engineering-blogs",
@@ -4553,7 +4553,7 @@
         "Awesome Lists",
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-08T22:09:40Z",
+      "lastUpdated": "2025-11-09T04:44:13Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4675,7 +4675,7 @@
       "name": "outline/outline",
       "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
       "url": "https://github.com/outline/outline",
-      "stars": 35817,
+      "stars": 35818,
       "language": "TypeScript",
       "topics": [
         "docker",
@@ -4692,7 +4692,7 @@
         "DevOps",
         "Testing"
       ],
-      "lastUpdated": "2025-11-09T03:27:44Z",
+      "lastUpdated": "2025-11-09T03:40:14Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4700,7 +4700,7 @@
       "name": "alebcay/awesome-shell",
       "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
       "url": "https://github.com/alebcay/awesome-shell",
-      "stars": 35770,
+      "stars": 35772,
       "language": null,
       "topics": [
         "awesome",
@@ -4718,7 +4718,7 @@
         "Learning Resources",
         "Awesome Lists"
       ],
-      "lastUpdated": "2025-11-08T23:35:26Z",
+      "lastUpdated": "2025-11-09T04:41:41Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4726,7 +4726,7 @@
       "name": "alvarotrigo/fullPage.js",
       "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
       "url": "https://github.com/alvarotrigo/fullPage.js",
-      "stars": 35486,
+      "stars": 35487,
       "language": "JavaScript",
       "topics": [
         "fullpage",
@@ -4745,7 +4745,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-07T07:31:12Z",
+      "lastUpdated": "2025-11-09T03:39:40Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4775,7 +4775,7 @@
       "name": "CherryHQ/cherry-studio",
       "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
       "url": "https://github.com/CherryHQ/cherry-studio",
-      "stars": 35176,
+      "stars": 35177,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -4792,7 +4792,7 @@
         "CLI Tools",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T01:47:04Z",
+      "lastUpdated": "2025-11-09T04:27:20Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4815,7 +4815,7 @@
       "categories": [
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T02:46:25Z",
+      "lastUpdated": "2025-11-09T03:36:38Z",
       "isArchived": false,
       "isFork": false
     },
@@ -4823,7 +4823,7 @@
       "name": "portainer/portainer",
       "description": "Making Docker and Kubernetes management easy.",
       "url": "https://github.com/portainer/portainer",
-      "stars": 35091,
+      "stars": 35090,
       "language": "TypeScript",
       "topics": [
         "docker",
@@ -4843,7 +4843,7 @@
       "categories": [
         "DevOps"
       ],
-      "lastUpdated": "2025-11-09T03:28:16Z",
+      "lastUpdated": "2025-11-09T04:02:21Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5033,7 +5033,7 @@
       "name": "vnpy/vnpy",
       "description": "基于Python的开源量化交易平台开发框架",
       "url": "https://github.com/vnpy/vnpy",
-      "stars": 33618,
+      "stars": 33619,
       "language": "Python",
       "topics": [
         "algotrading",
@@ -5048,7 +5048,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:14:46Z",
+      "lastUpdated": "2025-11-09T04:44:20Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5056,7 +5056,7 @@
       "name": "ehang-io/nps",
       "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
       "url": "https://github.com/ehang-io/nps",
-      "stars": 33611,
+      "stars": 33612,
       "language": "Go",
       "topics": [
         "dns",
@@ -5079,7 +5079,7 @@
         "CLI Tools",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T15:36:31Z",
+      "lastUpdated": "2025-11-09T03:42:11Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5114,7 +5114,7 @@
       "name": "pbatard/rufus",
       "description": "The Reliable USB Formatting Utility",
       "url": "https://github.com/pbatard/rufus",
-      "stars": 33515,
+      "stars": 33516,
       "language": "C",
       "topics": [
         "bios",
@@ -5141,7 +5141,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T03:04:53Z",
+      "lastUpdated": "2025-11-09T04:33:42Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5274,7 +5274,7 @@
       "name": "juanfont/headscale",
       "description": "An open source, self-hosted implementation of the Tailscale control server",
       "url": "https://github.com/juanfont/headscale",
-      "stars": 32596,
+      "stars": 32598,
       "language": "Go",
       "topics": [
         "tailscale",
@@ -5285,7 +5285,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T02:09:44Z",
+      "lastUpdated": "2025-11-09T04:14:40Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5293,7 +5293,7 @@
       "name": "ibraheemdev/modern-unix",
       "description": "A collection of modern/faster/saner alternatives to common unix commands.",
       "url": "https://github.com/ibraheemdev/modern-unix",
-      "stars": 32556,
+      "stars": 32557,
       "language": null,
       "topics": [
         "cli",
@@ -5307,7 +5307,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-08T19:12:50Z",
+      "lastUpdated": "2025-11-09T04:37:49Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5315,7 +5315,7 @@
       "name": "v2fly/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
       "url": "https://github.com/v2fly/v2ray-core",
-      "stars": 32431,
+      "stars": 32432,
       "language": "Go",
       "topics": [
         "anticensorship",
@@ -5335,7 +5335,7 @@
       "categories": [
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T23:10:15Z",
+      "lastUpdated": "2025-11-09T03:47:49Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5369,7 +5369,7 @@
       "name": "XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "url": "https://github.com/XTLS/Xray-core",
-      "stars": 32338,
+      "stars": 32339,
       "language": "Go",
       "topics": [
         "anticensorship",
@@ -5397,7 +5397,7 @@
         "Security",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T23:29:08Z",
+      "lastUpdated": "2025-11-09T04:42:39Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5472,7 +5472,7 @@
       "name": "1Panel-dev/1Panel",
       "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
       "url": "https://github.com/1Panel-dev/1Panel",
-      "stars": 31960,
+      "stars": 31961,
       "language": "Go",
       "topics": [
         "1panel",
@@ -5490,7 +5490,7 @@
         "Databases",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T02:12:22Z",
+      "lastUpdated": "2025-11-09T04:29:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5631,7 +5631,7 @@
       "name": "ReactiveX/rxjs",
       "description": "A reactive programming library for JavaScript",
       "url": "https://github.com/ReactiveX/rxjs",
-      "stars": 31531,
+      "stars": 31532,
       "language": "TypeScript",
       "topics": [
         "javascript",
@@ -5641,7 +5641,7 @@
         "Web Frameworks",
         "Libraries"
       ],
-      "lastUpdated": "2025-11-07T14:15:29Z",
+      "lastUpdated": "2025-11-09T03:49:58Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5713,7 +5713,7 @@
       "name": "coolsnowwolf/lede",
       "description": "Lean's LEDE source",
       "url": "https://github.com/coolsnowwolf/lede",
-      "stars": 31070,
+      "stars": 31071,
       "language": "C",
       "topics": [
         "lede",
@@ -5725,7 +5725,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T02:48:07Z",
+      "lastUpdated": "2025-11-09T03:40:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5853,7 +5853,7 @@
         "Web Frameworks",
         "Templates"
       ],
-      "lastUpdated": "2025-11-08T14:33:31Z",
+      "lastUpdated": "2025-11-09T04:00:54Z",
       "isArchived": false,
       "isFork": false
     },
@@ -5891,7 +5891,7 @@
     },
     {
       "name": "layui/layui",
-      "description": "一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。",
+      "description": "一套遵循原生态开发模���的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。",
       "url": "https://github.com/layui/layui",
       "stars": 30416,
       "language": "JavaScript",
@@ -6007,7 +6007,7 @@
       "name": "frappe/erpnext",
       "description": "Free and Open Source Enterprise Resource Planning (ERP)",
       "url": "https://github.com/frappe/erpnext",
-      "stars": 29997,
+      "stars": 29999,
       "language": "Python",
       "topics": [
         "accounting",
@@ -6030,7 +6030,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T23:31:45Z",
+      "lastUpdated": "2025-11-09T04:45:15Z",
       "isArchived": false,
       "isFork": false
     },
@@ -6145,7 +6145,7 @@
       "name": "NginxProxyManager/nginx-proxy-manager",
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
       "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
-      "stars": 29310,
+      "stars": 29311,
       "language": "TypeScript",
       "topics": [
         "nginx",
@@ -6154,7 +6154,7 @@
       "categories": [
         "DevOps"
       ],
-      "lastUpdated": "2025-11-09T02:20:39Z",
+      "lastUpdated": "2025-11-09T04:25:35Z",
       "isArchived": false,
       "isFork": false
     },
@@ -6162,7 +6162,7 @@
       "name": "AvaloniaUI/Avalonia",
       "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
       "url": "https://github.com/AvaloniaUI/Avalonia",
-      "stars": 29156,
+      "stars": 29158,
       "language": "C#",
       "topics": [
         "android",
@@ -6191,7 +6191,7 @@
         "CLI Tools",
         "IoT & Hardware"
       ],
-      "lastUpdated": "2025-11-08T22:55:25Z",
+      "lastUpdated": "2025-11-09T04:42:22Z",
       "isArchived": false,
       "isFork": false
     },
@@ -6346,13 +6346,13 @@
       "name": "SagerNet/sing-box",
       "description": "The universal proxy platform",
       "url": "https://github.com/SagerNet/sing-box",
-      "stars": 27902,
+      "stars": 27903,
       "language": "Go",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:30:12Z",
+      "lastUpdated": "2025-11-09T04:34:33Z",
       "isArchived": false,
       "isFork": false
     },
@@ -6495,7 +6495,7 @@
       "name": "seaweedfs/seaweedfs",
       "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
       "url": "https://github.com/seaweedfs/seaweedfs",
-      "stars": 27328,
+      "stars": 27331,
       "language": "Go",
       "topics": [
         "blob-storage",
@@ -6521,7 +6521,7 @@
         "Security",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T23:57:14Z",
+      "lastUpdated": "2025-11-09T04:42:42Z",
       "isArchived": false,
       "isFork": false
     },
@@ -6644,7 +6644,7 @@
       "name": "quasarframework/quasar",
       "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
       "url": "https://github.com/quasarframework/quasar",
-      "stars": 26951,
+      "stars": 26952,
       "language": "JavaScript",
       "topics": [
         "android",
@@ -6671,7 +6671,7 @@
         "Web Frameworks",
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-08T19:51:25Z",
+      "lastUpdated": "2025-11-09T04:29:21Z",
       "isArchived": false,
       "isFork": false
     },
@@ -6818,7 +6818,7 @@
       "name": "mbadolato/iTerm2-Color-Schemes",
       "description": "Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
       "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
-      "stars": 26153,
+      "stars": 26152,
       "language": "Shell",
       "topics": [
         "color-scheme",
@@ -6845,7 +6845,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T01:29:37Z",
+      "lastUpdated": "2025-11-09T04:37:36Z",
       "isArchived": false,
       "isFork": false
     },
@@ -6978,7 +6978,7 @@
       "name": "tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "url": "https://github.com/tailscale/tailscale",
-      "stars": 25826,
+      "stars": 25827,
       "language": "Go",
       "topics": [
         "2fa",
@@ -6991,7 +6991,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-08T21:05:31Z",
+      "lastUpdated": "2025-11-09T04:06:50Z",
       "isArchived": false,
       "isFork": false
     },
@@ -7048,7 +7048,7 @@
         "DevOps",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T00:16:30Z",
+      "lastUpdated": "2025-11-09T04:34:38Z",
       "isArchived": false,
       "isFork": false
     },
@@ -7056,7 +7056,7 @@
       "name": "MHSanaei/3x-ui",
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP) ",
       "url": "https://github.com/MHSanaei/3x-ui",
-      "stars": 25690,
+      "stars": 25691,
       "language": "HTML",
       "topics": [
         "ech",
@@ -7082,7 +7082,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-09T03:23:19Z",
+      "lastUpdated": "2025-11-09T04:00:39Z",
       "isArchived": false,
       "isFork": false
     },
@@ -7325,7 +7325,7 @@
       "name": "koodo-reader/koodo-reader",
       "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
       "url": "https://github.com/koodo-reader/koodo-reader",
-      "stars": 24693,
+      "stars": 24694,
       "language": "JavaScript",
       "topics": [
         "book",
@@ -7350,7 +7350,7 @@
       "categories": [
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-09T03:11:46Z",
+      "lastUpdated": "2025-11-09T04:20:20Z",
       "isArchived": false,
       "isFork": false
     },
@@ -7380,7 +7380,7 @@
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": 24606,
+      "stars": 24608,
       "language": "Python",
       "topics": [
         "agent",
@@ -7393,7 +7393,7 @@
         "Web Frameworks",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T02:56:33Z",
+      "lastUpdated": "2025-11-09T03:52:40Z",
       "isArchived": false,
       "isFork": false
     },
@@ -7555,7 +7555,7 @@
       "name": "hiddify/hiddify-app",
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "url": "https://github.com/hiddify/hiddify-app",
-      "stars": 24124,
+      "stars": 24123,
       "language": "Dart",
       "topics": [
         "clash",
@@ -7581,7 +7581,7 @@
         "CLI Tools",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T02:55:25Z",
+      "lastUpdated": "2025-11-09T03:51:25Z",
       "isArchived": false,
       "isFork": false
     },
@@ -7589,7 +7589,7 @@
       "name": "cmliu/edgetunnel",
       "description": "在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。",
       "url": "https://github.com/cmliu/edgetunnel",
-      "stars": 24112,
+      "stars": 24115,
       "language": "JavaScript",
       "topics": [
         "v2ray",
@@ -7600,7 +7600,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-09T03:13:50Z",
+      "lastUpdated": "2025-11-09T04:41:45Z",
       "isArchived": false,
       "isFork": true
     },
@@ -7680,7 +7680,7 @@
     },
     {
       "name": "flipped-aurora/gin-vue-admin",
-      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混���。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混��。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
       "url": "https://github.com/flipped-aurora/gin-vue-admin",
       "stars": 23886,
       "language": "Go",
@@ -8009,7 +8009,7 @@
       "name": "kovidgoyal/calibre",
       "description": "The official source code repository for the calibre ebook manager",
       "url": "https://github.com/kovidgoyal/calibre",
-      "stars": 22808,
+      "stars": 22809,
       "language": "Python",
       "topics": [
         "calibre",
@@ -8026,7 +8026,7 @@
       "categories": [
         "Learning Resources"
       ],
-      "lastUpdated": "2025-11-09T01:38:17Z",
+      "lastUpdated": "2025-11-09T04:44:12Z",
       "isArchived": false,
       "isFork": false
     },
@@ -8034,7 +8034,7 @@
       "name": "js-cookie/js-cookie",
       "description": "A simple, lightweight JavaScript API for handling browser cookies",
       "url": "https://github.com/js-cookie/js-cookie",
-      "stars": 22732,
+      "stars": 22733,
       "language": "JavaScript",
       "topics": [
         "cookie",
@@ -8043,7 +8043,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T01:47:49Z",
+      "lastUpdated": "2025-11-09T03:37:57Z",
       "isArchived": false,
       "isFork": false
     },
@@ -8051,7 +8051,7 @@
       "name": "better-auth/better-auth",
       "description": "The most comprehensive authentication framework for TypeScript",
       "url": "https://github.com/better-auth/better-auth",
-      "stars": 22722,
+      "stars": 22723,
       "language": "TypeScript",
       "topics": [
         "authentication",
@@ -8067,7 +8067,7 @@
         "Web Frameworks",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T03:11:16Z",
+      "lastUpdated": "2025-11-09T04:05:30Z",
       "isArchived": false,
       "isFork": false
     },
@@ -8218,7 +8218,7 @@
       "name": "Sanster/IOPaint",
       "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
       "url": "https://github.com/Sanster/IOPaint",
-      "stars": 22315,
+      "stars": 22316,
       "language": "Python",
       "topics": [
         "inpainting",
@@ -8233,7 +8233,7 @@
         "CLI Tools",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-08T16:09:07Z",
+      "lastUpdated": "2025-11-09T04:36:53Z",
       "isArchived": true,
       "isFork": false
     },
@@ -8258,7 +8258,7 @@
       "name": "saleor/saleor",
       "description": "Saleor Core: the high performance, composable, headless commerce API.",
       "url": "https://github.com/saleor/saleor",
-      "stars": 22262,
+      "stars": 22263,
       "language": "Python",
       "topics": [
         "cart",
@@ -8283,7 +8283,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T00:49:50Z",
+      "lastUpdated": "2025-11-09T04:09:26Z",
       "isArchived": false,
       "isFork": false
     },
@@ -8372,7 +8372,7 @@
       "name": "AlDanial/cloc",
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "url": "https://github.com/AlDanial/cloc",
-      "stars": 21979,
+      "stars": 21980,
       "language": "Perl",
       "topics": [
         "cloc",
@@ -8382,7 +8382,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T23:39:05Z",
+      "lastUpdated": "2025-11-09T04:01:37Z",
       "isArchived": false,
       "isFork": false
     },
@@ -8790,7 +8790,7 @@
         "Databases",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T02:30:18Z",
+      "lastUpdated": "2025-11-09T04:30:58Z",
       "isArchived": false,
       "isFork": false
     },
@@ -8931,7 +8931,7 @@
       "name": "Nyr/openvpn-install",
       "description": "OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
       "url": "https://github.com/Nyr/openvpn-install",
-      "stars": 20214,
+      "stars": 20215,
       "language": "Shell",
       "topics": [
         "almalinux",
@@ -8948,7 +8948,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T00:58:12Z",
+      "lastUpdated": "2025-11-09T04:10:43Z",
       "isArchived": false,
       "isFork": false
     },
@@ -8977,7 +8977,7 @@
         "Web Frameworks",
         "DevOps"
       ],
-      "lastUpdated": "2025-11-09T00:12:34Z",
+      "lastUpdated": "2025-11-09T04:25:39Z",
       "isArchived": false,
       "isFork": false
     },
@@ -9003,7 +9003,7 @@
       "name": "Popmotion/popmotion",
       "description": "Simple animation libraries for delightful user interfaces",
       "url": "https://github.com/Popmotion/popmotion",
-      "stars": 20161,
+      "stars": 20162,
       "language": "JavaScript",
       "topics": [
         "animation",
@@ -9018,7 +9018,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-06T06:15:50Z",
+      "lastUpdated": "2025-11-09T03:50:10Z",
       "isArchived": false,
       "isFork": false
     },
@@ -9042,7 +9042,7 @@
     },
     {
       "name": "linlinjava/litemall",
-      "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用��移动端",
+      "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
       "url": "https://github.com/linlinjava/litemall",
       "stars": 20011,
       "language": "Java",
@@ -9241,7 +9241,7 @@
       "categories": [
         "DevOps"
       ],
-      "lastUpdated": "2025-11-09T03:16:55Z",
+      "lastUpdated": "2025-11-09T03:41:15Z",
       "isArchived": false,
       "isFork": false
     },
@@ -9377,7 +9377,7 @@
       "name": "anderspitman/awesome-tunneling",
       "description": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
       "url": "https://github.com/anderspitman/awesome-tunneling",
-      "stars": 19262,
+      "stars": 19263,
       "language": null,
       "topics": [
         "ngrok",
@@ -9391,7 +9391,7 @@
         "Awesome Lists",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T03:02:44Z",
+      "lastUpdated": "2025-11-09T04:23:41Z",
       "isArchived": false,
       "isFork": false
     },
@@ -9558,7 +9558,7 @@
       "name": "goauthentik/authentik",
       "description": "The authentication glue you need.",
       "url": "https://github.com/goauthentik/authentik",
-      "stars": 18737,
+      "stars": 18738,
       "language": "Python",
       "topics": [
         "authentication",
@@ -9584,7 +9584,7 @@
         "DevOps",
         "Security"
       ],
-      "lastUpdated": "2025-11-09T01:47:03Z",
+      "lastUpdated": "2025-11-09T04:05:14Z",
       "isArchived": false,
       "isFork": false
     },
@@ -9620,7 +9620,7 @@
       "name": "nats-io/nats-server",
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "url": "https://github.com/nats-io/nats-server",
-      "stars": 18539,
+      "stars": 18540,
       "language": "Go",
       "topics": [
         "cloud",
@@ -9642,7 +9642,7 @@
       "categories": [
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T00:47:09Z",
+      "lastUpdated": "2025-11-09T04:24:15Z",
       "isArchived": false,
       "isFork": false
     },
@@ -10196,7 +10196,7 @@
       "name": "ginuerzh/gost",
       "description": "GO Simple Tunnel - a simple tunnel written in golang",
       "url": "https://github.com/ginuerzh/gost",
-      "stars": 17251,
+      "stars": 17252,
       "language": "Go",
       "topics": [
         "dns",
@@ -10219,7 +10219,7 @@
         "Security",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T02:37:35Z",
+      "lastUpdated": "2025-11-09T04:25:55Z",
       "isArchived": false,
       "isFork": false
     },
@@ -10292,13 +10292,13 @@
       "name": "BluePointLilac/ContextMenuManager",
       "description": "🖱️ 纯粹的Windows右键菜单管理程序",
       "url": "https://github.com/BluePointLilac/ContextMenuManager",
-      "stars": 16742,
+      "stars": 16743,
       "language": "C#",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T17:22:45Z",
+      "lastUpdated": "2025-11-09T03:42:55Z",
       "isArchived": false,
       "isFork": false
     },
@@ -10377,7 +10377,7 @@
       "name": "ory/hydra",
       "description": "The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",
       "url": "https://github.com/ory/hydra",
-      "stars": 16655,
+      "stars": 16656,
       "language": "Go",
       "topics": [
         "authorization",
@@ -10406,7 +10406,7 @@
         "Security",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T23:23:50Z",
+      "lastUpdated": "2025-11-09T04:18:43Z",
       "isArchived": false,
       "isFork": false
     },
@@ -10611,7 +10611,7 @@
       "name": "flatpickr/flatpickr",
       "description": "lightweight, powerful javascript datetimepicker with no dependencies",
       "url": "https://github.com/flatpickr/flatpickr",
-      "stars": 16419,
+      "stars": 16420,
       "language": "TypeScript",
       "topics": [
         "date",
@@ -10625,7 +10625,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T09:40:13Z",
+      "lastUpdated": "2025-11-09T03:58:04Z",
       "isArchived": false,
       "isFork": false
     },
@@ -10684,7 +10684,7 @@
       "name": "gztchan/awesome-design",
       "description": "🌟 Curated design resources from all over the world.",
       "url": "https://github.com/gztchan/awesome-design",
-      "stars": 16373,
+      "stars": 16372,
       "language": null,
       "topics": [
         "adobe",
@@ -10705,7 +10705,7 @@
       "categories": [
         "Awesome Lists"
       ],
-      "lastUpdated": "2025-11-08T22:21:47Z",
+      "lastUpdated": "2025-11-09T04:28:57Z",
       "isArchived": false,
       "isFork": false
     },
@@ -10728,7 +10728,7 @@
       "name": "Kr1s77/awesome-python-login-model",
       "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
       "url": "https://github.com/Kr1s77/awesome-python-login-model",
-      "stars": 16210,
+      "stars": 16211,
       "language": "Python",
       "topics": [
         "163mail-login",
@@ -10754,7 +10754,7 @@
         "Awesome Lists",
         "Testing"
       ],
-      "lastUpdated": "2025-11-08T09:07:31Z",
+      "lastUpdated": "2025-11-09T04:31:53Z",
       "isArchived": false,
       "isFork": false
     },
@@ -11210,7 +11210,7 @@
     },
     {
       "name": "stephentian/33-js-concepts",
-      "description": ":scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+      "description": ":scroll: 每个 JavaScript 工程��都应懂的33个概念 @leonardomso",
       "url": "https://github.com/stephentian/33-js-concepts",
       "stars": 15344,
       "language": "JavaScript",
@@ -11224,7 +11224,7 @@
     },
     {
       "name": "CarGuo/gsy_github_app_flutter",
-      "description": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin",
+      "description": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技���涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin",
       "url": "https://github.com/CarGuo/gsy_github_app_flutter",
       "stars": 15295,
       "language": "Dart",
@@ -11254,7 +11254,7 @@
       "name": "ashishpatel26/500-AI-Agents-Projects",
       "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
       "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
-      "stars": 15283,
+      "stars": 15284,
       "language": null,
       "topics": [
         "ai-agents",
@@ -11263,7 +11263,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:17:54Z",
+      "lastUpdated": "2025-11-09T03:45:52Z",
       "isArchived": false,
       "isFork": false
     },
@@ -11288,7 +11288,7 @@
       "name": "tindy2013/subconverter",
       "description": "Utility to convert between various subscription format",
       "url": "https://github.com/tindy2013/subconverter",
-      "stars": 15271,
+      "stars": 15272,
       "language": "C++",
       "topics": [
         "clash",
@@ -11309,7 +11309,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-09T01:42:15Z",
+      "lastUpdated": "2025-11-09T03:52:02Z",
       "isArchived": false,
       "isFork": false
     },
@@ -11400,7 +11400,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-08T10:48:35Z",
+      "lastUpdated": "2025-11-09T04:11:41Z",
       "isArchived": false,
       "isFork": false
     },
@@ -11425,7 +11425,7 @@
     },
     {
       "name": "Huanshere/VideoLingo",
-      "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切��、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+      "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
       "url": "https://github.com/Huanshere/VideoLingo",
       "stars": 15224,
       "language": "Python",
@@ -11462,7 +11462,7 @@
       "name": "dogecoin/dogecoin",
       "description": "very currency",
       "url": "https://github.com/dogecoin/dogecoin",
-      "stars": 15101,
+      "stars": 15100,
       "language": "C++",
       "topics": [
         "cryptocurrency",
@@ -11472,7 +11472,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-06T20:20:36Z",
+      "lastUpdated": "2025-11-09T04:29:33Z",
       "isArchived": false,
       "isFork": false
     },
@@ -11564,13 +11564,13 @@
       "name": "MatsuriDayo/nekoray",
       "description": "不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
       "url": "https://github.com/MatsuriDayo/nekoray",
-      "stars": 14962,
+      "stars": 14961,
       "language": "C++",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T02:58:27Z",
+      "lastUpdated": "2025-11-09T04:13:23Z",
       "isArchived": true,
       "isFork": false
     },
@@ -12019,7 +12019,7 @@
       "name": "akfamily/akshare",
       "description": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
       "url": "https://github.com/akfamily/akshare",
-      "stars": 14259,
+      "stars": 14260,
       "language": "Python",
       "topics": [
         "academic",
@@ -12046,7 +12046,7 @@
         "Libraries",
         "Data & Analytics"
       ],
-      "lastUpdated": "2025-11-09T02:39:34Z",
+      "lastUpdated": "2025-11-09T03:49:19Z",
       "isArchived": false,
       "isFork": false
     },
@@ -12068,7 +12068,7 @@
       "name": "loft-sh/devpod",
       "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
       "url": "https://github.com/loft-sh/devpod",
-      "stars": 14204,
+      "stars": 14205,
       "language": "Go",
       "topics": [
         "cloud",
@@ -12089,7 +12089,7 @@
         "Developer Tools",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T18:42:34Z",
+      "lastUpdated": "2025-11-09T04:36:29Z",
       "isArchived": false,
       "isFork": false
     },
@@ -12179,7 +12179,7 @@
       "name": "App-vNext/Polly",
       "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",
       "url": "https://github.com/App-vNext/Polly",
-      "stars": 14026,
+      "stars": 14027,
       "language": "C#",
       "topics": [
         "circuit-breaker",
@@ -12194,7 +12194,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-08T22:18:27Z",
+      "lastUpdated": "2025-11-09T03:33:40Z",
       "isArchived": false,
       "isFork": false
     },
@@ -12257,7 +12257,7 @@
       "name": "marko-js/marko",
       "description": "A declarative, HTML-based language that makes building web apps fun",
       "url": "https://github.com/marko-js/marko",
-      "stars": 13979,
+      "stars": 13988,
       "language": "JavaScript",
       "topics": [
         "client-side-rendering",
@@ -12274,7 +12274,7 @@
         "Web Frameworks",
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T03:26:54Z",
+      "lastUpdated": "2025-11-09T04:43:55Z",
       "isArchived": false,
       "isFork": false
     },
@@ -12441,6 +12441,23 @@
       "isFork": false
     },
     {
+      "name": "ourongxing/newsnow",
+      "description": "Elegant reading of real-time and hottest news",
+      "url": "https://github.com/ourongxing/newsnow",
+      "stars": 13709,
+      "language": "TypeScript",
+      "topics": [
+        "elegant",
+        "news"
+      ],
+      "categories": [
+        "Testing"
+      ],
+      "lastUpdated": "2025-11-09T04:45:36Z",
+      "isArchived": false,
+      "isFork": false
+    },
+    {
       "name": "fengyuanchen/cropperjs",
       "description": "JavaScript image cropper.",
       "url": "https://github.com/fengyuanchen/cropperjs",
@@ -12457,23 +12474,6 @@
         "Uncategorized"
       ],
       "lastUpdated": "2025-11-08T19:49:08Z",
-      "isArchived": false,
-      "isFork": false
-    },
-    {
-      "name": "ourongxing/newsnow",
-      "description": "Elegant reading of real-time and hottest news",
-      "url": "https://github.com/ourongxing/newsnow",
-      "stars": 13706,
-      "language": "TypeScript",
-      "topics": [
-        "elegant",
-        "news"
-      ],
-      "categories": [
-        "Testing"
-      ],
-      "lastUpdated": "2025-11-09T03:31:17Z",
       "isArchived": false,
       "isFork": false
     },
@@ -12641,7 +12641,7 @@
       "name": "XAMPPRocky/tokei",
       "description": "Count your code, quickly.",
       "url": "https://github.com/XAMPPRocky/tokei",
-      "stars": 13404,
+      "stars": 13405,
       "language": "Rust",
       "topics": [
         "badge",
@@ -12660,7 +12660,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-08T23:42:45Z",
+      "lastUpdated": "2025-11-09T03:47:26Z",
       "isArchived": false,
       "isFork": false
     },
@@ -12771,7 +12771,7 @@
       "name": "LGUG2Z/komorebi",
       "description": "A tiling window manager for Windows 🍉",
       "url": "https://github.com/LGUG2Z/komorebi",
-      "stars": 13216,
+      "stars": 13217,
       "language": "Rust",
       "topics": [
         "autohotkey",
@@ -12785,7 +12785,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:14:08Z",
+      "lastUpdated": "2025-11-09T04:05:33Z",
       "isArchived": false,
       "isFork": false
     },
@@ -12955,7 +12955,7 @@
       "name": "game1024/Speedy",
       "description": "🎮 An open-source game speed modifier.[一款开源的游戏变速器]",
       "url": "https://github.com/game1024/Speedy",
-      "stars": 12831,
+      "stars": 12833,
       "language": "C++",
       "topics": [
         "cplusplus",
@@ -12970,13 +12970,13 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T03:16:17Z",
+      "lastUpdated": "2025-11-09T04:16:11Z",
       "isArchived": false,
       "isFork": false
     },
     {
       "name": "leisurelicht/wtfpython-cn",
-      "description": "wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译",
+      "description": "wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改��翻译",
       "url": "https://github.com/leisurelicht/wtfpython-cn",
       "stars": 12746,
       "language": "Jupyter Notebook",
@@ -13010,7 +13010,7 @@
       "name": "k4m4/terminals-are-sexy",
       "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.",
       "url": "https://github.com/k4m4/terminals-are-sexy",
-      "stars": 12727,
+      "stars": 12728,
       "language": "Shell",
       "topics": [
         "awesome-lists",
@@ -13023,7 +13023,30 @@
         "CLI Tools",
         "Awesome Lists"
       ],
-      "lastUpdated": "2025-11-08T22:49:10Z",
+      "lastUpdated": "2025-11-09T04:45:24Z",
+      "isArchived": false,
+      "isFork": false
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "stars": 12717,
+      "language": "Python",
+      "topics": [
+        "automation",
+        "cli",
+        "json",
+        "money",
+        "outreach",
+        "python",
+        "twitter",
+        "youtube"
+      ],
+      "categories": [
+        "CLI Tools"
+      ],
+      "lastUpdated": "2025-11-09T03:57:55Z",
       "isArchived": false,
       "isFork": false
     },
@@ -13054,29 +13077,6 @@
         "Interview & Algorithms"
       ],
       "lastUpdated": "2025-11-09T03:10:48Z",
-      "isArchived": false,
-      "isFork": false
-    },
-    {
-      "name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
-      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-      "stars": 12716,
-      "language": "Python",
-      "topics": [
-        "automation",
-        "cli",
-        "json",
-        "money",
-        "outreach",
-        "python",
-        "twitter",
-        "youtube"
-      ],
-      "categories": [
-        "CLI Tools"
-      ],
-      "lastUpdated": "2025-11-08T22:35:05Z",
       "isArchived": false,
       "isFork": false
     },
@@ -13230,13 +13230,13 @@
       "name": "hsliuping/TradingAgents-CN",
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "url": "https://github.com/hsliuping/TradingAgents-CN",
-      "stars": 12476,
+      "stars": 12478,
       "language": "Python",
       "topics": [],
       "categories": [
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-09T01:23:28Z",
+      "lastUpdated": "2025-11-09T04:01:19Z",
       "isArchived": false,
       "isFork": false
     },
@@ -13405,7 +13405,7 @@
       "name": "pypa/pipx",
       "description": "Install and Run Python Applications in Isolated Environments",
       "url": "https://github.com/pypa/pipx",
-      "stars": 12244,
+      "stars": 12245,
       "language": "Python",
       "topics": [
         "cli",
@@ -13418,7 +13418,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-08T18:50:15Z",
+      "lastUpdated": "2025-11-09T04:08:25Z",
       "isArchived": false,
       "isFork": false
     },
@@ -13879,7 +13879,7 @@
       "name": "theanalyst/awesome-distributed-systems",
       "description": "A curated list to learn about distributed systems",
       "url": "https://github.com/theanalyst/awesome-distributed-systems",
-      "stars": 11417,
+      "stars": 11418,
       "language": null,
       "topics": [
         "architecture",
@@ -13892,7 +13892,7 @@
       "categories": [
         "Awesome Lists"
       ],
-      "lastUpdated": "2025-11-08T21:43:31Z",
+      "lastUpdated": "2025-11-09T04:37:45Z",
       "isArchived": false,
       "isFork": false
     },
@@ -14013,7 +14013,7 @@
         "Security",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-08T21:11:29Z",
+      "lastUpdated": "2025-11-09T04:09:24Z",
       "isArchived": false,
       "isFork": false
     },
@@ -14125,7 +14125,7 @@
       "name": "madd86/awesome-system-design",
       "description": "A curated list of awesome System Design (A.K.A. Distributed Systems) resources. ",
       "url": "https://github.com/madd86/awesome-system-design",
-      "stars": 11007,
+      "stars": 11019,
       "language": null,
       "topics": [
         "distributed-systems",
@@ -14143,7 +14143,7 @@
         "Databases",
         "Interview & Algorithms"
       ],
-      "lastUpdated": "2025-11-09T02:53:11Z",
+      "lastUpdated": "2025-11-09T04:35:10Z",
       "isArchived": false,
       "isFork": false
     },
@@ -15064,7 +15064,7 @@
       "name": "StartBootstrap/startbootstrap-sb-admin-2",
       "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
       "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2",
-      "stars": 9870,
+      "stars": 9871,
       "language": "HTML",
       "topics": [
         "bootstrap",
@@ -15079,7 +15079,7 @@
       "categories": [
         "Templates"
       ],
-      "lastUpdated": "2025-11-09T01:18:12Z",
+      "lastUpdated": "2025-11-09T04:42:20Z",
       "isArchived": false,
       "isFork": false
     },
@@ -15430,7 +15430,7 @@
       "name": "perspective-dev/perspective",
       "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
       "url": "https://github.com/perspective-dev/perspective",
-      "stars": 9555,
+      "stars": 9556,
       "language": "C++",
       "topics": [
         "analytics",
@@ -15445,7 +15445,7 @@
       "categories": [
         "Data & Analytics"
       ],
-      "lastUpdated": "2025-11-08T21:17:01Z",
+      "lastUpdated": "2025-11-09T04:24:48Z",
       "isArchived": false,
       "isFork": false
     },
@@ -15740,13 +15740,13 @@
       "name": "immortalwrt/immortalwrt",
       "description": "An opensource OpenWrt variant for mainland China users.",
       "url": "https://github.com/immortalwrt/immortalwrt",
-      "stars": 9231,
+      "stars": 9233,
       "language": "C",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T01:45:57Z",
+      "lastUpdated": "2025-11-09T04:19:35Z",
       "isArchived": false,
       "isFork": false
     },
@@ -16633,7 +16633,7 @@
       "name": "EasyTier/EasyTier",
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "url": "https://github.com/EasyTier/EasyTier",
-      "stars": 7974,
+      "stars": 7976,
       "language": "Rust",
       "topics": [
         "nat-traversal",
@@ -16646,7 +16646,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T02:46:57Z",
+      "lastUpdated": "2025-11-09T04:23:14Z",
       "isArchived": false,
       "isFork": false
     },
@@ -16793,7 +16793,7 @@
       "name": "SixLabors/ImageSharp",
       "description": ":camera: A modern, cross-platform, 2D Graphics library for .NET",
       "url": "https://github.com/SixLabors/ImageSharp",
-      "stars": 7858,
+      "stars": 7859,
       "language": "C#",
       "topics": [
         "bmp",
@@ -16813,7 +16813,7 @@
       "categories": [
         "Libraries"
       ],
-      "lastUpdated": "2025-11-07T22:37:04Z",
+      "lastUpdated": "2025-11-09T04:20:16Z",
       "isArchived": false,
       "isFork": false
     },
@@ -16848,7 +16848,7 @@
     },
     {
       "name": "jobbole/awesome-javascript-cn",
-      "description": "JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。",
+      "description": "JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和��、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。",
       "url": "https://github.com/jobbole/awesome-javascript-cn",
       "stars": 7825,
       "language": null,
@@ -17120,7 +17120,7 @@
       "name": "olifolkerd/tabulator",
       "description": "Interactive Tables and Data Grids for JavaScript",
       "url": "https://github.com/olifolkerd/tabulator",
-      "stars": 7392,
+      "stars": 7393,
       "language": "JavaScript",
       "topics": [
         "ajax",
@@ -17143,13 +17143,13 @@
       "categories": [
         "Web Frameworks"
       ],
-      "lastUpdated": "2025-11-08T18:08:10Z",
+      "lastUpdated": "2025-11-09T04:31:01Z",
       "isArchived": false,
       "isFork": false
     },
     {
       "name": "itcharge/AlgoNote",
-      "description": "⛽️「算法通关手册」：从零开始的「算法与数据���构」学习教程，200 道「算法面试热门题目」，1000+ 道「LeetCode 题目解析」，持续更新中！",
+      "description": "⛽️「算法通关手册」：从零开始的「算法与数据结构」学习教程，200 道「算法面试热门题目」，1000+ 道「LeetCode 题目解析」，持续更新中！",
       "url": "https://github.com/itcharge/AlgoNote",
       "stars": 7386,
       "language": "Python",
@@ -17859,7 +17859,7 @@
       "name": "Rockyzsu/stock",
       "description": "30天掌握量化交易 (持续更新)",
       "url": "https://github.com/Rockyzsu/stock",
-      "stars": 6896,
+      "stars": 6897,
       "language": "Python",
       "topics": [
         "python",
@@ -17869,7 +17869,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T23:42:00Z",
+      "lastUpdated": "2025-11-09T03:45:26Z",
       "isArchived": false,
       "isFork": false
     },
@@ -17942,7 +17942,7 @@
       "name": "Termix-SSH/Termix",
       "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
       "url": "https://github.com/Termix-SSH/Termix",
-      "stars": 6839,
+      "stars": 6845,
       "language": "TypeScript",
       "topics": [
         "docker",
@@ -17956,7 +17956,7 @@
         "CLI Tools",
         "DevOps"
       ],
-      "lastUpdated": "2025-11-09T03:25:10Z",
+      "lastUpdated": "2025-11-09T04:40:19Z",
       "isArchived": false,
       "isFork": false
     },
@@ -18400,7 +18400,7 @@
       "name": "webclipper/web-clipper",
       "description": "For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere",
       "url": "https://github.com/webclipper/web-clipper",
-      "stars": 6600,
+      "stars": 6601,
       "language": "TypeScript",
       "topics": [
         "chrome-extension",
@@ -18414,7 +18414,7 @@
         "CLI Tools",
         "Developer Tools"
       ],
-      "lastUpdated": "2025-11-08T06:14:38Z",
+      "lastUpdated": "2025-11-09T03:51:25Z",
       "isArchived": false,
       "isFork": false
     },
@@ -18738,14 +18738,14 @@
       "name": "wgwang/awesome-LLMs-In-China",
       "description": "中国大模型",
       "url": "https://github.com/wgwang/awesome-LLMs-In-China",
-      "stars": 6309,
+      "stars": 6308,
       "language": null,
       "topics": [],
       "categories": [
         "Awesome Lists",
         "AI/ML"
       ],
-      "lastUpdated": "2025-11-07T14:44:12Z",
+      "lastUpdated": "2025-11-09T04:33:42Z",
       "isArchived": false,
       "isFork": false
     },
@@ -19152,7 +19152,7 @@
       "name": "erebe/wstunnel",
       "description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available ",
       "url": "https://github.com/erebe/wstunnel",
-      "stars": 5861,
+      "stars": 5863,
       "language": "Rust",
       "topics": [
         "http2",
@@ -19171,7 +19171,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T00:30:51Z",
+      "lastUpdated": "2025-11-09T04:29:45Z",
       "isArchived": false,
       "isFork": false
     },
@@ -19179,7 +19179,7 @@
       "name": "go-gost/gost",
       "description": "GO Simple Tunnel - a simple tunnel written in golang",
       "url": "https://github.com/go-gost/gost",
-      "stars": 5836,
+      "stars": 5837,
       "language": "Go",
       "topics": [
         "dns",
@@ -19207,7 +19207,7 @@
         "Security",
         "Infrastructure & Cloud"
       ],
-      "lastUpdated": "2025-11-09T01:18:25Z",
+      "lastUpdated": "2025-11-09T04:40:58Z",
       "isArchived": false,
       "isFork": false
     },
@@ -19215,7 +19215,7 @@
       "name": "alireza0/s-ui",
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "url": "https://github.com/alireza0/s-ui",
-      "stars": 5798,
+      "stars": 5799,
       "language": "Go",
       "topics": [
         "hysteria",
@@ -19232,7 +19232,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-08T23:57:07Z",
+      "lastUpdated": "2025-11-09T03:40:43Z",
       "isArchived": false,
       "isFork": false
     },
@@ -19605,7 +19605,7 @@
       "name": "chrisleekr/binance-trading-bot",
       "description": "Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis",
       "url": "https://github.com/chrisleekr/binance-trading-bot",
-      "stars": 5424,
+      "stars": 5423,
       "language": "JavaScript",
       "topics": [
         "binance",
@@ -19623,7 +19623,7 @@
       "categories": [
         "Security"
       ],
-      "lastUpdated": "2025-11-08T22:09:35Z",
+      "lastUpdated": "2025-11-09T04:29:35Z",
       "isArchived": false,
       "isFork": false
     },
@@ -19731,7 +19731,7 @@
       "name": "Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "stars": 5347,
+      "stars": 5348,
       "language": "TypeScript",
       "topics": [
         "coderabbit",
@@ -19744,7 +19744,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:27:23Z",
+      "lastUpdated": "2025-11-09T03:41:12Z",
       "isArchived": false,
       "isFork": false
     },
@@ -19789,7 +19789,7 @@
     },
     {
       "name": "dushixiang/next-terminal",
-      "description": "Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。",
+      "description": "Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维��景。它可以记录和回放会话，协助安全审计与合规追踪。",
       "url": "https://github.com/dushixiang/next-terminal",
       "stars": 5281,
       "language": "TypeScript",
@@ -20027,13 +20027,13 @@
       "name": "xykt/IPQuality",
       "description": "IP质量检测脚本 - IP Quality Check Script",
       "url": "https://github.com/xykt/IPQuality",
-      "stars": 5194,
+      "stars": 5195,
       "language": "Shell",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:20:44Z",
+      "lastUpdated": "2025-11-09T03:43:13Z",
       "isArchived": false,
       "isFork": false
     },
@@ -20096,9 +20096,9 @@
     },
     {
       "name": "sansan0/TrendRadar",
-      "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无���编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+      "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
       "url": "https://github.com/sansan0/TrendRadar",
-      "stars": 5114,
+      "stars": 5118,
       "language": "Python",
       "topics": [
         "data-analysis",
@@ -20120,7 +20120,7 @@
         "DevOps",
         "Data & Analytics"
       ],
-      "lastUpdated": "2025-11-09T03:31:13Z",
+      "lastUpdated": "2025-11-09T04:41:37Z",
       "isArchived": false,
       "isFork": false
     },
@@ -20288,6 +20288,25 @@
       "isFork": false
     },
     {
+      "name": "openiddict/openiddict-core",
+      "description": "Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET",
+      "url": "https://github.com/openiddict/openiddict-core",
+      "stars": 4987,
+      "language": "C#",
+      "topics": [
+        "aspnetcore",
+        "dotnet",
+        "oauth2",
+        "openidconnect"
+      ],
+      "categories": [
+        "Security"
+      ],
+      "lastUpdated": "2025-11-09T04:29:16Z",
+      "isArchived": false,
+      "isFork": false
+    },
+    {
       "name": "pypa/virtualenv",
       "description": "Virtual Python Environment builder",
       "url": "https://github.com/pypa/virtualenv",
@@ -20308,25 +20327,6 @@
         "Libraries"
       ],
       "lastUpdated": "2025-11-08T07:50:25Z",
-      "isArchived": false,
-      "isFork": false
-    },
-    {
-      "name": "openiddict/openiddict-core",
-      "description": "Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET",
-      "url": "https://github.com/openiddict/openiddict-core",
-      "stars": 4986,
-      "language": "C#",
-      "topics": [
-        "aspnetcore",
-        "dotnet",
-        "oauth2",
-        "openidconnect"
-      ],
-      "categories": [
-        "Security"
-      ],
-      "lastUpdated": "2025-11-08T19:38:29Z",
       "isArchived": false,
       "isFork": false
     },
@@ -20393,7 +20393,7 @@
     },
     {
       "name": "liyupi/mianshiya",
-      "description": "持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2025年最新Java面试题、前端面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题等几千道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
+      "description": "持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2025年最新Java面试题、前端面试题、C++面试���、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题等几千道高频程序员求职必备八股文。面试刷题就选面试鸭 💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
       "url": "https://github.com/liyupi/mianshiya",
       "stars": 4964,
       "language": "TypeScript",
@@ -20542,7 +20542,7 @@
       "name": "MapsterMapper/Mapster",
       "description": "A fast, fun and stimulating object to object Mapper",
       "url": "https://github.com/MapsterMapper/Mapster",
-      "stars": 4891,
+      "stars": 4892,
       "language": "C#",
       "topics": [
         "c-sharp",
@@ -20554,7 +20554,7 @@
       "categories": [
         "Templates"
       ],
-      "lastUpdated": "2025-11-09T00:28:10Z",
+      "lastUpdated": "2025-11-09T04:08:21Z",
       "isArchived": false,
       "isFork": false
     },
@@ -20920,7 +20920,7 @@
     },
     {
       "name": "dotnetcore/Util",
-      "description": "Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。",
+      "description": "Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，��套代码生成模板，权限等组成。",
       "url": "https://github.com/dotnetcore/Util",
       "stars": 4623,
       "language": "C#",
@@ -22118,7 +22118,7 @@
       "categories": [
         "CLI Tools"
       ],
-      "lastUpdated": "2025-11-09T00:57:26Z",
+      "lastUpdated": "2025-11-09T04:32:22Z",
       "isArchived": false,
       "isFork": false
     },
@@ -22179,7 +22179,7 @@
       "name": "alireza0/x-ui",
       "description": "xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan & Shadowsocks)",
       "url": "https://github.com/alireza0/x-ui",
-      "stars": 3834,
+      "stars": 3835,
       "language": "JavaScript",
       "topics": [
         "reality",
@@ -22195,7 +22195,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T02:49:36Z",
+      "lastUpdated": "2025-11-09T04:24:26Z",
       "isArchived": false,
       "isFork": true
     },
@@ -22295,7 +22295,7 @@
       "name": "P3TERX/GeoLite.mmdb",
       "description": "MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases",
       "url": "https://github.com/P3TERX/GeoLite.mmdb",
-      "stars": 3814,
+      "stars": 3815,
       "language": null,
       "topics": [
         "geoip",
@@ -22308,7 +22308,7 @@
       "categories": [
         "Databases"
       ],
-      "lastUpdated": "2025-11-09T01:47:52Z",
+      "lastUpdated": "2025-11-09T04:02:29Z",
       "isArchived": false,
       "isFork": false
     },
@@ -23088,13 +23088,13 @@
       "name": "gnmyt/Nexterm",
       "description": "The open source server management software for SSH, VNC & RDP",
       "url": "https://github.com/gnmyt/Nexterm",
-      "stars": 3455,
+      "stars": 3454,
       "language": "JavaScript",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T16:17:15Z",
+      "lastUpdated": "2025-11-09T03:38:25Z",
       "isArchived": false,
       "isFork": false
     },
@@ -23368,7 +23368,7 @@
       "name": "SukkaW/Surge",
       "description": "Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash",
       "url": "https://github.com/SukkaW/Surge",
-      "stars": 3327,
+      "stars": 3328,
       "language": "TypeScript",
       "topics": [
         "clash",
@@ -23389,7 +23389,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-08T23:19:57Z",
+      "lastUpdated": "2025-11-09T04:01:35Z",
       "isArchived": false,
       "isFork": false
     },
@@ -23787,7 +23787,7 @@
       "name": "1nchaos/adata",
       "description": "免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口，量化交易数据】【多数据源融合，动态设置代理，保障数据高可用性】",
       "url": "https://github.com/1nchaos/adata",
-      "stars": 3158,
+      "stars": 3159,
       "language": "Python",
       "topics": [
         "3000",
@@ -23805,7 +23805,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T01:40:24Z",
+      "lastUpdated": "2025-11-09T03:49:11Z",
       "isArchived": false,
       "isFork": false
     },
@@ -23842,7 +23842,7 @@
     },
     {
       "name": "ArvinLovegood/go-stock",
-      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。��持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "url": "https://github.com/ArvinLovegood/go-stock",
       "stars": 3105,
       "language": "Go",
@@ -23866,7 +23866,7 @@
     },
     {
       "name": "haiibo/OpenWrt",
-      "description": "基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B��树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等",
+      "description": "基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等",
       "url": "https://github.com/haiibo/OpenWrt",
       "stars": 3096,
       "language": "Shell",
@@ -24501,7 +24501,7 @@
       "name": "Micro-sheep/efinance",
       "description": "efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀",
       "url": "https://github.com/Micro-sheep/efinance",
-      "stars": 2787,
+      "stars": 2788,
       "language": "Python",
       "topics": [
         "bond",
@@ -24514,7 +24514,7 @@
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-09T03:26:38Z",
+      "lastUpdated": "2025-11-09T03:41:39Z",
       "isArchived": false,
       "isFork": false
     },
@@ -25008,7 +25008,7 @@
     },
     {
       "name": "openctp/openctp",
-      "description": "openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套��于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。",
+      "description": "openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。",
       "url": "https://github.com/openctp/openctp",
       "stars": 2543,
       "language": "C",
@@ -27972,7 +27972,7 @@
     },
     {
       "name": "easychen/wecomchan",
-      "description": "微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。 ",
+      "description": "微信推送服务Server���的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。 ",
       "url": "https://github.com/easychen/wecomchan",
       "stars": 1641,
       "language": "Go",
@@ -29158,13 +29158,13 @@
       "name": "YtFlow/Maple",
       "description": "A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf",
       "url": "https://github.com/YtFlow/Maple",
-      "stars": 1307,
+      "stars": 1308,
       "language": "C++",
       "topics": [],
       "categories": [
         "Uncategorized"
       ],
-      "lastUpdated": "2025-11-07T04:51:56Z",
+      "lastUpdated": "2025-11-09T04:14:10Z",
       "isArchived": false,
       "isFork": false
     },
@@ -30403,7 +30403,7 @@
     },
     {
       "name": "liulangnan/aui",
-      "description": "移动端UI快速布局解决方案，一个靠谱的高性能移动前端框架",
+      "description": "移动端UI快速布���解决方案，一个靠谱的高性能移动前端框架",
       "url": "https://github.com/liulangnan/aui",
       "stars": 975,
       "language": "HTML",
@@ -32297,7 +32297,7 @@
     },
     {
       "name": "canhuah/WanAndroid-Flutter",
-      "description": "Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推��为优质Flutter开源项目啦",
+      "description": "Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦",
       "url": "https://github.com/canhuah/WanAndroid-Flutter",
       "stars": 622,
       "language": "Dart",
@@ -32467,6 +32467,24 @@
       "isFork": false
     },
     {
+      "name": "aelassas/servy",
+      "description": "Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW & FireDaemon Pro",
+      "url": "https://github.com/aelassas/servy",
+      "stars": 591,
+      "language": "C#",
+      "topics": [
+        "service-manager",
+        "service-wrapper",
+        "servy"
+      ],
+      "categories": [
+        "Uncategorized"
+      ],
+      "lastUpdated": "2025-11-09T03:50:46Z",
+      "isArchived": false,
+      "isFork": false
+    },
+    {
       "name": "javabloger/yuqing",
       "description": "思通舆情 是一款开源免费的舆情系统，支持本地化部署。支持对海量的舆情数据进行多维交叉分析和深度挖掘,为用户户提供全面的舆情数据,专业的舆情分析。",
       "url": "https://github.com/javabloger/yuqing",
@@ -32521,24 +32539,6 @@
       ],
       "lastUpdated": "2025-10-20T13:22:26Z",
       "isArchived": true,
-      "isFork": false
-    },
-    {
-      "name": "aelassas/servy",
-      "description": "Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW & FireDaemon Pro",
-      "url": "https://github.com/aelassas/servy",
-      "stars": 590,
-      "language": "C#",
-      "topics": [
-        "service-manager",
-        "service-wrapper",
-        "servy"
-      ],
-      "categories": [
-        "Uncategorized"
-      ],
-      "lastUpdated": "2025-11-08T16:25:13Z",
-      "isArchived": false,
       "isFork": false
     },
     {
@@ -33444,7 +33444,7 @@
     },
     {
       "name": "zfl9/ipt2socks",
-      "description": "将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具",
+      "description": "将 iptables/nftables 传入的透��代理流量转为 socks5 流量的实用工具",
       "url": "https://github.com/zfl9/ipt2socks",
       "stars": 494,
       "language": "C",
@@ -38836,7 +38836,7 @@
     },
     {
       "name": "arloor/rust_http_proxy",
-      "description": "基于Rust的正向代理、反向代理和静态资源托管。  forward proxy、reverse proxy and static file serving",
+      "description": "基于Rust的正向代理、反向代理和静��资源托管。  forward proxy、reverse proxy and static file serving",
       "url": "https://github.com/arloor/rust_http_proxy",
       "stars": 51,
       "language": "Rust",
@@ -38938,7 +38938,7 @@
     },
     {
       "name": "fog-forest/scripts",
-      "description": "🤪 随手写的一些乱��八糟脚本",
+      "description": "🤪 随手写的一些乱七八糟脚本",
       "url": "https://github.com/fog-forest/scripts",
       "stars": 46,
       "language": "PHP",
@@ -41117,7 +41117,7 @@
     },
     {
       "name": "geffzhang/AspNetCoreSource",
-      "description": "整合ASP.NET Core相关的源码，方便阅读源码和���试~",
+      "description": "整合ASP.NET Core相关的源码，方便阅读源码和调试~",
       "url": "https://github.com/geffzhang/AspNetCoreSource",
       "stars": 2,
       "language": null,
@@ -41267,7 +41267,7 @@
         "Developer Tools",
         "Data & Analytics"
       ],
-      "lastUpdated": "2025-11-09T02:58:22Z",
+      "lastUpdated": "2025-11-09T04:43:23Z",
       "isArchived": false,
       "isFork": false
     },
